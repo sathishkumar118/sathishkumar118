@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Machine Learning
 - 🌱 I’m currently learning Data science concepts
 - 💞️ I’m looking to collaborate on Machine learning projects
-- 📫 How to reach me ssathishkumar.118@gmai.com
+- 📫 How to reach me ssathishkumar.118@gmail.com
 
 <!---
 sathishkumar118/sathishkumar118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
