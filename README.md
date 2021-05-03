@@ -6,6 +6,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-kumar-unique/)
 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ssathishkumar)
+
 I'm delighted to see you here!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
