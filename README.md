@@ -5,4 +5,4 @@
 - 📫 How to reach me ssathishkumar.118@gmail.com
 
 I'm delighted to see you here!
-[visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
