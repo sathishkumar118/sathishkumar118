@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on any Machine learning projects
 - 📫 How to reach me ssathishkumar.118@gmail.com
 
-I'm delighted to see you here![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+I'm delighted to see you here!
+[visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
