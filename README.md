@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on any Machine learning projects
 - 📫 How to reach me ssathishkumar.118@gmail.com
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-kumar-unique/)
+
 I'm delighted to see you here!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
