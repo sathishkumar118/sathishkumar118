@@ -2,7 +2,6 @@
 - 👀 I’m interested in Programming and Machine Learning
 - 🌱 I’m currently working as Data Science Professional at Shell and strengthening Data science concepts
 - 💞️ I’m looking to collaborate on any Machine learning projects
-- 📫 How to reach me ssathishkumar.118@gmail.com 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-kumar-unique/)
 
