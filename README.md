@@ -11,4 +11,4 @@
 
 I'm delighted to see you here!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar118)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishkumar118&theme=onedark)]
