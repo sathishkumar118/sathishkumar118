@@ -7,7 +7,7 @@
 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ssathishkumar)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sathishkumar118&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=sathishkumar118&theme=onedark)
 
 I'm delighted to see you here!
 
